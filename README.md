@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BFarmer26
 - 👀 I’m interested in game, web, and app development. 
-- 🌱 I’m currently learning JavaScript, Python, and C#, and studying Computer Science in college.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and C#, while studying Computer Science in college.
 - 💞️ I’m looking to collaborate on projects that I can add to my portfolio.
 - 📫 How to reach me ... 
 

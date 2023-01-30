@@ -1,5 +1,5 @@
 - Hi, I’m @BFarmer26
-- I’m interested in game, web, and app development. 
+- I’m interested in game, web, and app development
 - Student at Ivy Tech studying Software Development
 
 <!---

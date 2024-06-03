@@ -1,6 +1,6 @@
 - Hi, I’m @BFarmer26
-- I’m interested in game, web, and app development
-- Student at Ivy Tech studying Software Development
+- I’m interested in game, web, and app development 
+- Currently working on front-end development projects
 
 <!---
 BFarmer26/BFarmer26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
